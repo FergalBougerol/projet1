@@ -12,6 +12,7 @@
 		17F6DDB01E2C4B42008A41A3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17F6DDAE1E2C4B42008A41A3 /* Main.storyboard */; };
 		17F6DDB21E2C4B42008A41A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17F6DDB11E2C4B42008A41A3 /* Assets.xcassets */; };
 		17F6DDB51E2C4B42008A41A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17F6DDB31E2C4B42008A41A3 /* LaunchScreen.storyboard */; };
+		17F6DDBD1E2C4D6E008A41A3 /* ViewTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17F6DDBC1E2C4D6E008A41A3 /* ViewTwo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		17F6DDB11E2C4B42008A41A3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		17F6DDB41E2C4B42008A41A3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		17F6DDB61E2C4B42008A41A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		17F6DDBC1E2C4D6E008A41A3 /* ViewTwo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewTwo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				17F6DDAA1E2C4B42008A41A3 /* AppDelegate.swift */,
 				17F6DDAC1E2C4B42008A41A3 /* ViewController.swift */,
 				17F6DDAE1E2C4B42008A41A3 /* Main.storyboard */,
+				17F6DDBC1E2C4D6E008A41A3 /* ViewTwo.swift */,
 				17F6DDB11E2C4B42008A41A3 /* Assets.xcassets */,
 				17F6DDB31E2C4B42008A41A3 /* LaunchScreen.storyboard */,
 				17F6DDB61E2C4B42008A41A3 /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				17F6DDAD1E2C4B42008A41A3 /* ViewController.swift in Sources */,
 				17F6DDAB1E2C4B42008A41A3 /* AppDelegate.swift in Sources */,
+				17F6DDBD1E2C4D6E008A41A3 /* ViewTwo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +303,7 @@
 				17F6DDBB1E2C4B42008A41A3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
